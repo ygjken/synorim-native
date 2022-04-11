@@ -1,0 +1,1 @@
+# synorim-native
